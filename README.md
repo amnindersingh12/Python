@@ -6,6 +6,11 @@
   <h1><a href="https://github.com/TheAlgorithms/">The Algorithms</a> - Python</h1>
 
 <!-- Labels: -->
+  <!-- Hacktoberfest 2025 Banner: -->
+  <a href="https://hacktoberfest.com">
+    <img src="https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest&logoColor=white" height="20" alt="Hacktoberfest 2025">
+  </a>
+
   <!-- First row: -->
   <a href="https://gitpod.io/#https://github.com/TheAlgorithms/Python">
     <img src="https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod&style=flat-square" height="20" alt="Gitpod Ready-to-Code">
